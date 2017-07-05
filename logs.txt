@@ -1,0 +1,23 @@
+commit 25b0f6a558359ca3c50a44eea129f5aa1c146af2
+Author: Salvador <Flowrebyc@hotmail.com>
+Date:   Tue Jul 4 09:59:15 2017 -0600
+
+    Se agrego css bootstrap
+
+commit 00cc22e0e7c3c69c5849c2d51ed2ac2ed41b8226
+Author: Salvador <Flowrebyc@hotmail.com>
+Date:   Tue Jul 4 09:50:11 2017 -0600
+
+    Se agrego footer
+
+commit 0ebab162b151d2a1895cdef0e114b8290a3c5d32
+Author: Salvador <Flowrebyc@hotmail.com>
+Date:   Tue Jul 4 09:46:47 2017 -0600
+
+    Se agrego imagen
+
+commit df3f5a7f0ec023085eafcb229947af89060c7874
+Author: Salvador <Flowrebyc@hotmail.com>
+Date:   Tue Jul 4 09:41:06 2017 -0600
+
+    Se agrego titulo de la pagina
